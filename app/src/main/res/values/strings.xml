@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensoID</string>
+    <string name="hintNombre">Nombre completo</string>
+    <string name="date_picker_titulo">Fecha Nacimiento</string>
+    <string name="hintPassword">Telefono</string>
+    <string name="hintEmail">Email</string>
+    <string name="asignaFecha">Asignar Fecha</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+</resources>
